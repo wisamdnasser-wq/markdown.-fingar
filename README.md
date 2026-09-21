@@ -1,2 +1,5 @@
 # markdown.-fingar
-Æfingar í markdown málinu
+## Æfingar í markdown málinu
+
+**Wisam**
+Tskóli
